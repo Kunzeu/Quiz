@@ -2,4 +2,4 @@
 
 # To see the project live click below
 
-#### https://quick-quiz-app.netlify.app/
+#### https://kunzeu.github.io/Quiz/
